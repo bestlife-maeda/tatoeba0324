@@ -1,0 +1,99 @@
+<svg id="グループ_46" data-name="グループ 46" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104.661" height="89.016" viewBox="0 0 104.661 89.016">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_41" data-name="長方形 41" width="104.661" height="89.016" fill="#df002c"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="パス_5" data-name="パス 5" d="M69.107,38.228H59.335V28.456H49.414v9.772H39.643v9.92h9.771V57.92h9.921V48.148h9.772Z" fill="#d4647a"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="長方形_34" data-name="長方形 34" width="104.661" height="89.016" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="長方形_33" data-name="長方形 33" width="19.692" height="19.692" transform="translate(49.415 28.456)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="パス_6" data-name="パス 6" d="M64.3,48.148h4.807v-9.92H59.335V28.456H49.414v4.235c3.092,6.521,8.617,11.73,14.886,15.457" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-1.628" y1="2.321" x2="-1.592" y2="2.321" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0076c1"/>
+      <stop offset="0.27" stop-color="#1796d9"/>
+      <stop offset="0.559" stop-color="#2bb2ed"/>
+      <stop offset="0.812" stop-color="#37c3fa"/>
+      <stop offset="1" stop-color="#3ccaff"/>
+    </linearGradient>
+    <clipPath id="clip-path-6">
+      <path id="パス_7" data-name="パス 7" d="M73.119,1.331A40.332,40.332,0,0,0,55.5,12.975a2.712,2.712,0,0,1-4.138,0A40.332,40.332,0,0,0,33.737,1.331C19.507-3.592,3.634,5.94.592,22.763c-3.666,20.272,9.952,43.592,33.459,58.1,4.926,3.041,18.325,8.142,27.856,8.15h.047a17.847,17.847,0,0,0,4.954-.617c5.9-1.735,20.853-13.55,19.222-15.174-2.344-2.334-6.543.008-11.08,2.35-3.4,1.755-6.992,3.51-10.132,3.3-6.872-.468-11.4-1.718-13.745-5.154-3.807-5.584-3.032-12.915-4.875-12.3-2.152-.72-2.553,1.589-2.825,3.9-.289,2.45-.432,4.9-2.366,3.732-15.875-9.583-25.113-25.212-22.66-38.779C20.462,19.131,30.97,12.82,40.391,16.079A27.1,27.1,0,0,1,51.417,23.07a2.74,2.74,0,0,0,4.022,0,27.089,27.089,0,0,1,11.026-6.991c9.421-3.259,19.93,3.052,21.944,14.19,1.568,8.671-1.655,18.178-8.319,26.415C77.224,55.592,70.856,51.839,69,54.71c-1.122,1.738,2.7,2.957,3.18,4.324.7,2.016-3,5.032-4.686,5.858-2.221,1.085-13,0-13.121,1.288-.337,3.722,7.01,4.994,8.993,5.4,8.262,1.678,14.848-3.229,24.5-12.308,9.965-9.372,17.607-23.375,16.721-36C103.569,8.707,92.69,0,80.979,0a24.008,24.008,0,0,0-7.86,1.331" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect id="長方形_37" data-name="長方形 37" width="75.803" height="72.555" transform="translate(10.42 11.241)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <path id="パス_8" data-name="パス 8" d="M66.447,83.484c6.285-1,13.065-7.744,19.776-10.1a.4.4,0,0,0-.093-.162c-4.1-4.084-13.881,6.147-21.212,5.647-6.873-.469-11.4-1.718-13.745-5.155-3.807-5.583-3.032-12.915-4.876-12.3-4.434-1.483-1.433,9.9-5.19,7.629-15.874-9.582-25.113-25.211-22.66-38.778C20.461,19.131,30.97,12.82,40.391,16.079A28.767,28.767,0,0,1,46.608,19.1c-6.965-5.162-13.874-9.5-22.754-7.247-5.754,1.459-11.361,7.57-12.626,13.4C4.345,56.976,43.066,87.208,66.447,83.484" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.098" y1="0.86" x2="0.107" y2="0.86" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#009d6d"/>
+      <stop offset="1" stop-color="#79e283"/>
+    </linearGradient>
+    <clipPath id="clip-path-10">
+      <rect id="長方形_39" data-name="長方形 39" width="50.298" height="71.903" transform="translate(54.363 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <path id="パス_9" data-name="パス 9" d="M104.591,23.266C103.342,5.46,87.349-3.592,73.118,1.331A42.913,42.913,0,0,0,61.668,7.29c.048.308,12.061-4.324,19.225-2.439,14.148,3.724,17.378,16.9,15.4,29.486-1.738,11.086-14.1,29.3-28.51,34.441-2.906,1.036-9.718-.335-12.349-3.1-.645.1-1.042.262-1.064.5-.339,3.722,7.009,4.994,8.993,5.4,8.261,1.678,14.847-3.229,24.5-12.308,9.966-9.372,17.607-23.375,16.721-36" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="-0.379" y1="1.097" x2="-0.368" y2="1.097" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="グループ_45" data-name="グループ 45" clip-path="url(#clip-path)">
+    <g id="グループ_23" data-name="グループ 23">
+      <g id="グループ_22" data-name="グループ 22" clip-path="url(#clip-path-2)">
+        <rect id="長方形_31" data-name="長方形 31" width="41.668" height="41.668" transform="translate(24.911 43.188) rotate(-45)" fill="#d4647a"/>
+      </g>
+    </g>
+    <g id="グループ_30" data-name="グループ 30">
+      <g id="グループ_29" data-name="グループ 29" clip-path="url(#clip-path-3)">
+        <g id="グループ_28" data-name="グループ 28" opacity="0.39" style="mix-blend-mode: screen;isolation: isolate">
+          <g id="グループ_27" data-name="グループ 27">
+            <g id="グループ_26" data-name="グループ 26" clip-path="url(#clip-path-4)">
+              <g id="グループ_25" data-name="グループ 25">
+                <g id="グループ_24" data-name="グループ 24" clip-path="url(#clip-path-5)">
+                  <rect id="長方形_32" data-name="長方形 32" width="27.849" height="27.849" transform="translate(39.568 38.302) rotate(-45)" fill="url(#linear-gradient)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="グループ_32" data-name="グループ 32">
+      <g id="グループ_31" data-name="グループ 31" clip-path="url(#clip-path-6)">
+        <rect id="長方形_35" data-name="長方形 35" width="142.241" height="142.241" transform="translate(-49.378 42.712) rotate(-45)" fill="#d4647a"/>
+      </g>
+    </g>
+    <g id="グループ_44" data-name="グループ 44">
+      <g id="グループ_43" data-name="グループ 43" clip-path="url(#clip-path-3)">
+        <g id="グループ_37" data-name="グループ 37" opacity="0.48" style="mix-blend-mode: screen;isolation: isolate">
+          <g id="グループ_36" data-name="グループ 36">
+            <g id="グループ_35" data-name="グループ 35" clip-path="url(#clip-path-8)">
+              <g id="グループ_34" data-name="グループ 34">
+                <g id="グループ_33" data-name="グループ 33" clip-path="url(#clip-path-9)">
+                  <rect id="長方形_36" data-name="長方形 36" width="112.774" height="112.774" transform="translate(-34.459 48.404) rotate(-45)" fill="url(#linear-gradient-2)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="グループ_42" data-name="グループ 42" opacity="0.48" style="mix-blend-mode: screen;isolation: isolate">
+          <g id="グループ_41" data-name="グループ 41">
+            <g id="グループ_40" data-name="グループ 40" clip-path="url(#clip-path-10)">
+              <g id="グループ_39" data-name="グループ 39">
+                <g id="グループ_38" data-name="グループ 38" clip-path="url(#clip-path-11)">
+                  <rect id="長方形_38" data-name="長方形 38" width="90.713" height="90.713" transform="translate(15.612 34.831) rotate(-45)" fill="url(#linear-gradient-3)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
